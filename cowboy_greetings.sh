@@ -7,4 +7,4 @@ function cowboy_greetings
     echo (random choice $quotes)
 end
 
-cowboy_greetings
+funcsave cowboy_greetings
